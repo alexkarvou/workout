@@ -81,7 +81,7 @@
 24. Κοιλιακοί μονόζυγο
 
 
-![Man_flex](man_flex.jpg)
+![Man_flex](man_flex.png)
 ```
 
 
