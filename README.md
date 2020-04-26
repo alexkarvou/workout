@@ -46,7 +46,7 @@
 5. Τεντώματα 
 
 
-![Image](woman_flex)
+![Woman_flex](woman_flex.jpg)
 ```
 
 
@@ -81,7 +81,7 @@
 24. Κοιλιακοί μονόζυγο
 
 
-![Image](man_flex)
+![Man_flex](man_flex.jpg)
 ```
 
 
