@@ -5,29 +5,30 @@
 
 ```markdown
 
-_Warm up_
+**Warm up**
 
 5 min ( με διαλείμματα )	Σχοινάκι 
 15 λεπτά 	Power stretching
----
+
+
 
 1. Squats ελεύθερα ( 15-20 reps )
 2. Push ups γόνατα κάτω ( 10 reps ? )
 3. Hip thrust ( 10-20 reps ? )
 4. Abs ( σημαδεύω κάτω σημαδεύω πάνω )
 5. Μονόζυγο ( 2-3 reps με βοήθεια )
----
 
-_2min rest_
+
+**2min rest**
 
 1. Lunges ( 1-1 πόδι 15 reps no weight )
 2. Dips ( καναπέ 10 reps ? )
 3. Kopilatiki Psili me band 
 4. Ab wheel
-5. Kick backs ( 10 καθε πόδι ; )  
----
+5. Kick backs ( 10 καθε πόδι  )  
 
-_2min rest_
+
+**2min rest**
 
 1. Μονόζυγο ( 2-3 reps με βοήθεια )
 2. Plank ( 30 sec )
@@ -35,9 +36,8 @@ _2min rest_
 4. Stiff leg deadlift 
 5. Abs ( πατάω πόδια, 10 με χτυπάει δεξί χέρι δικο της δεξί ώμο δικο μου, μετα αριστερά και τέλος με δυο στο σαγόνι )
 
----
 
-_2min rest_
+**2min rest**
 
 1. Squats με βάρος 
 2. Pick push ups
@@ -46,7 +46,7 @@ _2min rest_
 5. Τεντώματα 
 
 
-![Image](src)
+![Image](woman_flex)
 ```
 
 
@@ -79,6 +79,9 @@ _2min rest_
 22. Triceps με λάστιχο 
 23. Μονόζυγο κλειστή 
 24. Κοιλιακοί μονόζυγο
+
+
+![Image](man_flex)
 ```
 
 
