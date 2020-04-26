@@ -45,10 +45,11 @@
 4. Abs σημαδεύει κέντρο 
 5. Τεντώματα 
 
-
-![Woman_flex](woman_flex.jpg)
 ```
 
+![Woman_flex](woman_flex.jpg)
+
+---
 
 ### Petros & Alex
 
@@ -81,9 +82,10 @@
 24. Κοιλιακοί μονόζυγο
 
 
-![Man_flex](man_flex.png)
-```
 
+```
+![Man_flex](man_flex.png)
+---
 
 
 
