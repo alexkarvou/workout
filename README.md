@@ -1,37 +1,90 @@
-## Welcome to GitHub Pages
+## Welcome to workout guidelines
+---
 
-You can use the [editor on GitHub](https://github.com/alexkarvou/workout/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Alice & Artemis
 
 ```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+_Warm up_
 
-- Bulleted
-- List
+5 min ( με διαλείμματα )	Σχοινάκι 
+15 λεπτά 	Power stretching
+---
 
-1. Numbered
-2. List
+1. Squats ελεύθερα ( 15-20 reps )
+2. Push ups γόνατα κάτω ( 10 reps ? )
+3. Hip thrust ( 10-20 reps ? )
+4. Abs ( σημαδεύω κάτω σημαδεύω πάνω )
+5. Μονόζυγο ( 2-3 reps με βοήθεια )
+---
 
-**Bold** and _Italic_ and `Code` text
+_2min rest_
 
-[Link](url) and ![Image](src)
+1. Lunges ( 1-1 πόδι 15 reps no weight )
+2. Dips ( καναπέ 10 reps ? )
+3. Kopilatiki Psili me band 
+4. Ab wheel
+5. Kick backs ( 10 καθε πόδι ; )  
+---
+
+_2min rest_
+
+1. Μονόζυγο ( 2-3 reps με βοήθεια )
+2. Plank ( 30 sec )
+3. Biceps 
+4. Stiff leg deadlift 
+5. Abs ( πατάω πόδια, 10 με χτυπάει δεξί χέρι δικο της δεξί ώμο δικο μου, μετα αριστερά και τέλος με δυο στο σαγόνι )
+
+---
+
+_2min rest_
+
+1. Squats με βάρος 
+2. Pick push ups
+3. Triceps
+4. Abs σημαδεύει κέντρο 
+5. Τεντώματα 
+
+
+![Image](src)
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
+### Petros & Alex
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/alexkarvou/workout/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
+```markdown
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+1. Ζέσταμα 
+2. 20 squats 
+3. 6 μονοζυγιες 
+4. Side abs χ 15
+5. 14 dips καρέκλα 
+6. 10 lunges με βαρακι 
+7. 90sec brake 
+8. 15 pushups 
+9. Abs 15 χαμηλά αγκώνες / 15 ψηλά 
+10. 30 hip thrusters 
+11. Stiff leg deadlift χ 25
+12. 14 diamond push ups
+13. 30sec elbow plank 
+14. 90sec brake 
+15. Squat me βάρος 
+16. 30 calf raises 
+17. Ab wheel 
+18. 15 Push ups decline σε καρέκλα
+19. Abs X 15
+20. 14 Pick push ups
+21. Biceps 
+22. Triceps με λάστιχο 
+23. Μονόζυγο κλειστή 
+24. Κοιλιακοί μονόζυγο
+```
+
+
+
+
+
+
+
+
