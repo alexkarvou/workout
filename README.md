@@ -7,8 +7,8 @@
 
 **Warm up**
 
-5 min ( με διαλείμματα )	Σχοινάκι 
-15 λεπτά 	Power stretching
+1. 5 min ( με διαλείμματα )	Σχοινάκι 
+2. 15 λεπτά 	Power stretching
 
 
 
